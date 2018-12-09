@@ -8,7 +8,7 @@ Contributors:
 4. Afjalur Rahman Rana – 16301182
 5. Mashtura Mazed- 14201037
 
-# Food Ordering System
+# Restaurant Management System
 
 ## Screenshots
 ### Login
