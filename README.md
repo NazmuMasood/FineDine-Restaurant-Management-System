@@ -1,5 +1,5 @@
 # Restaurant-Management-System
-This contain necessary documentations and programs related to the restaurant management system 
+This repository contain necessary documentations and programs related to the restaurant management system 
 
 Contributors:
 1. Shihab Uddin Chowdhury – 16101325
