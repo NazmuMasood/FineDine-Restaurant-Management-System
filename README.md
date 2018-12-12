@@ -1,4 +1,4 @@
-# Restaurant-Management-System
+# FineDine-Restaurant-Management-System
 FineDine is an efficient restaurant management app which helps manage the employee department, inventory and all also allows customers to order food online 
 
 ## Screenshots of the app
