@@ -1,16 +1,7 @@
 # Restaurant-Management-System
-This repository contain necessary documentations and programs related to the restaurant management system 
+The app is an efficient restaurant management app which helps manage the employee department, inventory and all also allows customers to order food online 
 
-Contributors:
-1. Shihab Uddin Chowdhury – 16101325
-2. Nazmuddin Al Masood – 16101272
-3. Aditi Biswas – 16301135
-4. Afjalur Rahman Rana – 16301182
-5. Mashtura Mazed- 14201037
-
-# Restaurant Management System
-
-## Screenshots
+## Screenshots of the app
 ### Login
 ![Login](https://image.prntscr.com/image/aY4ghnqETTWc8w6RRqcSOw.jpg)
 ### Register
@@ -38,11 +29,10 @@ How To Install -
 
 Note -
 ---------
-1. This is not ready for PRODUCTION.
-2. The username and password of sample users are stored in table `users`.
-3. Only Customers with "Verified" status can place orders using "Cash on Delivery" option.
-4. By default a new customer gets 2000 coins in Wallet on signing up, and a fake Credit card number & CVV number is generated and stored in SQL Table "wallet_details" with corresponding new customer's ID.
-5. Use that Card Number & CVV while placing an order, else order won't be successful or use "Cash on delivery" option.
-6. What's lacking? Dynamic payment(real payment system) and error reporting lacks in this project. And also one might wish for showing corresponding food item's photo and all that stuff.
+1. The username and password of sample users are stored in table `users`.
+2. Only Customers with "Verified" status can place orders using "Cash on Delivery" option.
+3. By default a new customer gets 2000 coins in Wallet on signing up, and a fake Credit card number & CVV number is generated and stored in SQL Table "wallet_details" with corresponding new customer's ID.
+4. Use that Card Number & CVV while placing an order, else order won't be successful or use "Cash on delivery" option.
+5. What's lacking? Dynamic payment(real payment system) and error reporting lacks in this project. And also one might wish for showing corresponding food item's photo and all that stuff.
 
 screenshot credit: https://github.com/haxxorsid/food-ordering-system
